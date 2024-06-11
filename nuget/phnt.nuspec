@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+	<metadata>
+		<id>phnt.nuget</id>
+		<version>1.0.0</version>
+		<description>
+Native API header files for the System Informer project.
+		</description>
+		<authors>frendguo</authors>
+		<projectUrl>https://github.com/frendguo/phnt</projectUrl>
+		<repository type="git" url="https://github.com/frendguo/phnt.git" branch="master" />
+		<tags>native;phnt</tags>
+		<license type="expression">MIT</license>
+		<summary>Native API header files for the System Informer project.</summary>
+		<releaseNotes>
+			init nuget
+		</releaseNotes>
+		<readme>README.md</readme>
+		<copyright>Copyright © frendguo. All rights reserved.</copyright>
+	</metadata>
+</package>

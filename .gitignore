@@ -1,0 +1,6 @@
+﻿nuget/build/native/include
+*.nupkg
+nuget/README.md
+build/.cmake
+build/CMakeFiles
+build/CMakeCache.txt
